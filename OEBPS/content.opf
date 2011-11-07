@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package version="2.0" xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookID">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier id="BookID" opf:scheme="ISBN">978-0-6710-4148-9</dc:identifier>
+        <dc:title>Starcraft: Liberty's crusade</dc:title>
+        <dc:language>ru</dc:language>
+        <dc:subject>General Fiction</dc:subject>
+        <dc:creator opf:file-as="Grubb, Jeff" opf:role="aut">Jeff Grubb</dc:creator>
+        <dc:contributor opf:role="trl">Азбука</dc:contributor>
+        <dc:contributor opf:role="bkp">Ftornik (books@ftornik.pp.ua)</dc:contributor>
+        <dc:publisher>Pocket Books</dc:publisher>
+        <dc:date>2001-02-27</dc:date>
+        <dc:description>Знаменитая стратегия «StarCraft» хорошо знакома любителям компьютерных игр во всём мире. Судьба
+            человечества в руках героя-одиночки, сражающегося в далёком космосе с
+            могущественным и коварным врагом! В необозримом будущем на расстоянии шестидесяти тысяч световых лет от
+            Земли Конфедерация Терран втянута в войну с таинственными протоссами и безжалостными зергами. Эта война
+            возвещает о начале величайшей главы в истории человечества или же предрекает его отчаянный кровавый финал.
+            Репортёр Майкл Либерти брошен в самое пекло войны, результат которой определит, выживет ли человеческая
+            раса. Только одно Либерти знает точно: единственный человек, которому он может доверить свою жизнь, – это он
+            сам.
+        </dc:description>
+        <meta name="cover" content="cover-image"/>
+    </metadata>
+    <manifest>
+        <item id="cover-image" href="cover.jpg" media-type="image/jpeg"/>
+        <item id="cover" href="cover.xhtml" media-type="application/xhtml+xml"/>
+        <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+        <item id="intro" href="chapters/intro.xhtml" media-type="application/xhtml+xml"/>
+        <item id="ch01" href="chapters/sclc-ch01.xhtml" media-type="application/xhtml+xml"/>
+        <item id="ch02" href="chapters/sclc-ch02.xhtml" media-type="application/xhtml+xml"/>
+        <item id="ch03" href="chapters/sclc-ch03.xhtml" media-type="application/xhtml+xml"/>
+        <item id="ch04" href="chapters/sclc-ch04.xhtml" media-type="application/xhtml+xml"/>
+        <item id="ch05" href="chapters/sclc-ch05.xhtml" media-type="application/xhtml+xml"/>
+        <item id="ch06" href="chapters/sclc-ch06.xhtml" media-type="application/xhtml+xml"/>
+        <item id="ch07" href="chapters/sclc-ch07.xhtml" media-type="application/xhtml+xml"/>
+        <item id="ch08" href="chapters/sclc-ch08.xhtml" media-type="application/xhtml+xml"/>
+        <item id="ch09" href="chapters/sclc-ch09.xhtml" media-type="application/xhtml+xml"/>
+        <item id="ch10" href="chapters/sclc-ch10.xhtml" media-type="application/xhtml+xml"/>
+        <item id="ch11" href="chapters/sclc-ch11.xhtml" media-type="application/xhtml+xml"/>
+        <item id="ch12" href="chapters/sclc-ch12.xhtml" media-type="application/xhtml+xml"/>
+        <item id="ch13" href="chapters/sclc-ch13.xhtml" media-type="application/xhtml+xml"/>
+        <item id="ch14" href="chapters/sclc-ch14.xhtml" media-type="application/xhtml+xml"/>
+        <item id="ch15" href="chapters/sclc-ch15.xhtml" media-type="application/xhtml+xml"/>
+        <item id="ch16" href="chapters/sclc-ch16.xhtml" media-type="application/xhtml+xml"/>
+        <item id="ch17" href="chapters/sclc-ch17.xhtml" media-type="application/xhtml+xml"/>
+        <item id="outro" href="chapters/outro.xhtml" media-type="application/xhtml+xml"/>
+        <item id="stylesheet" href="chapters/stylesheet.css" media-type="text/css"/>
+        <item id="separator" href="separator.svg" media-type="image/svg+xml"/>
+    </manifest>
+    <spine toc="ncx">
+        <itemref idref="cover"/>
+        <itemref idref="intro"/>
+        <itemref idref="ch01"/>
+        <itemref idref="ch02"/>
+        <itemref idref="ch03"/>
+        <itemref idref="ch04"/>
+        <itemref idref="ch05"/>
+        <itemref idref="ch06"/>
+        <itemref idref="ch07"/>
+        <itemref idref="ch08"/>
+        <itemref idref="ch09"/>
+        <itemref idref="ch10"/>
+        <itemref idref="ch11"/>
+        <itemref idref="ch12"/>
+        <itemref idref="ch13"/>
+        <itemref idref="ch14"/>
+        <itemref idref="ch15"/>
+        <itemref idref="ch16"/>
+        <itemref idref="ch17"/>
+        <itemref idref="outro"/>
+    </spine>
+    <guide>
+        <reference type="cover" title="Обложка" href="cover.xhtml"/>
+    </guide>
+</package>

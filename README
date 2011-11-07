@@ -1,0 +1,8 @@
+Старкрафт: Крестовый поход Либерти (Starcraft: Liberty's crusade).
+Перевод издательства "Азбука".
+
+Упаковка файлов в epub:
+$ zip -0Xq liberty.epub mimetype
+$ zip -Xr9Dq liberty.epub * -x README
+
+This file was modified by JetBrains PhpStorm 2.1.5 for binding GitHub repository

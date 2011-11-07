@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="ru-RU">
+    <head>
+        <meta name="dtb:uid" content="978-0-6710-4148-9"/>
+    </head>
+    <docTitle>
+        <text>Starcraft: Uprising</text>
+    </docTitle>
+    <navMap>
+        <navPoint id="cover" playOrder="1">
+            <navLabel>
+                <text>Обложка</text>
+            </navLabel>
+            <content src="cover.xhtml"/>
+        </navPoint>
+        <navPoint id="intro" playOrder="2">
+            <navLabel>
+                <text>Antebellum</text>
+            </navLabel>
+            <content src="chapters/intro.xhtml"/>
+        </navPoint>
+        <navPoint id="ch01" playOrder="3">
+            <navLabel>
+                <text>Глава 1. Насильная вербовка</text>
+            </navLabel>
+            <content src="chapters/sclc-ch01.xhtml"/>
+        </navPoint>
+        <navPoint id="ch02" playOrder="4">
+            <navLabel>
+                <text>Глава 2. Приятное назначение</text>
+            </navLabel>
+            <content src="chapters/sclc-ch02.xhtml"/>
+        </navPoint>
+        <navPoint id="ch03" playOrder="5">
+            <navLabel>
+                <text>Глава 3. Система Сара</text>
+            </navLabel>
+            <content src="chapters/sclc-ch03.xhtml"/>
+        </navPoint>
+        <navPoint id="ch04" playOrder="6">
+            <navLabel>
+                <text>Глава 4. Высадка на Map Сара</text>
+            </navLabel>
+            <content src="chapters/sclc-ch04.xhtml"/>
+        </navPoint>
+        <navPoint id="ch05" playOrder="7">
+            <navLabel>
+                <text>Глава 5. База Антем</text>
+            </navLabel>
+            <content src="chapters/sclc-ch05.xhtml"/>
+        </navPoint>
+        <navPoint id="ch06" playOrder="8">
+            <navLabel>
+                <text>Глава 6. Мураши</text>
+            </navLabel>
+            <content src="chapters/sclc-ch06.xhtml"/>
+        </navPoint>
+        <navPoint id="ch07" playOrder="9">
+            <navLabel>
+                <text>Глава 7. Сделки</text>
+            </navLabel>
+            <content src="chapters/sclc-ch07.xhtml"/>
+        </navPoint>
+        <navPoint id="ch08" playOrder="10">
+            <navLabel>
+                <text>Глава 8. Зерги и протоссы</text>
+            </navLabel>
+            <content src="chapters/sclc-ch08.xhtml"/>
+        </navPoint>
+        <navPoint id="ch09" playOrder="11">
+            <navLabel>
+                <text>Глава 9. Маршал и «призрак»</text>
+            </navLabel>
+            <content src="chapters/sclc-ch09.xhtml"/>
+        </navPoint>
+        <navPoint id="ch10" playOrder="12">
+            <navLabel>
+                <text>Глава 10. Крушение «Hopaдa-II»</text>
+            </navLabel>
+            <content src="chapters/sclc-ch10.xhtml"/>
+        </navPoint>
+        <navPoint id="ch11" playOrder="13">
+            <navLabel>
+                <text>Глава 11. Шахматы</text>
+            </navLabel>
+            <content src="chapters/sclc-ch11.xhtml"/>
+        </navPoint>
+        <navPoint id="ch12" playOrder="14">
+            <navLabel>
+                <text>Глава 12. В пасти у зверя</text>
+            </navLabel>
+            <content src="chapters/sclc-ch12.xhtml"/>
+        </navPoint>
+        <navPoint id="ch13" playOrder="15">
+            <navLabel>
+                <text>Глава 13. Спасение душ</text>
+            </navLabel>
+            <content src="chapters/sclc-ch13.xhtml"/>
+        </navPoint>
+        <navPoint id="ch14" playOrder="16">
+            <navLabel>
+                <text>Глава 14. В эпицентре</text>
+            </navLabel>
+            <content src="chapters/sclc-ch14.xhtml"/>
+        </navPoint>
+        <navPoint id="ch15" playOrder="17">
+            <navLabel>
+                <text>Глава 15. Дела катятся к чёрту (научный факт)</text>
+            </navLabel>
+            <content src="chapters/sclc-ch15.xhtml"/>
+        </navPoint>
+        <navPoint id="ch16" playOrder="18">
+            <navLabel>
+                <text>Глава 16. Дым войны</text>
+            </navLabel>
+            <content src="chapters/sclc-ch16.xhtml"/>
+        </navPoint>
+        <navPoint id="ch17" playOrder="19">
+            <navLabel>
+                <text>Глава 17. Дороги не потеряны</text>
+            </navLabel>
+            <content src="chapters/sclc-ch17.xhtml"/>
+        </navPoint>
+        <navPoint id="outro" playOrder="20">
+            <navLabel>
+                <text>Postbellum</text>
+            </navLabel>
+            <content src="chapters/outro.xhtml"/>
+        </navPoint>
+    </navMap>
+</ncx>
